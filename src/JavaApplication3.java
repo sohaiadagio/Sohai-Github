@@ -7,7 +7,7 @@ class Calculator implements ActionListener
 {
     //  f = Frame, T = TextField, btn = button
     //   i.e btn1 means Button 1
-    
+    // martin arana
     JFrame f;
     JTextField t;
    JButton btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9,btn0;
